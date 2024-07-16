@@ -1,0 +1,142 @@
+{
+    "catalogue": [
+      {
+        "productId": 1,
+        "productName": "Organic Apples",
+        "price": 300,
+        "productPicture": "https://images.pexels.com/photos/5528995/pexels-photo-5528995.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Fresh and juicy organic apples, perfect for snacking and cooking.",
+        "category": "fruits",
+        "quantity": 100,
+        "id": "407a"
+      },
+      {
+        "productId": 2,
+        "productName": "Organic Carrots",
+        "price": 200,
+        "productPicture": "https://images.pexels.com/photos/143133/pexels-photo-143133.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Crunchy and sweet organic carrots, great for salads and soups.",
+        "category": "vegetables",
+        "quantity": 150,
+        "id": "634c"
+      },
+      {
+        "productId": 3,
+        "productName": "Free-Range Eggs",
+        "price": 400,
+        "productPicture": "https://images.pexels.com/photos/162712/egg-white-food-protein-162712.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "High-quality free-range eggs from happy hens.",
+        "category": "dairy",
+        "quantity": 200,
+        "id": "ba84"
+      },
+      {
+        "productId": 4,
+        "productName": "Organic Tomatoes",
+        "price": 350,
+        "productPicture": "https://images.pexels.com/photos/248420/pexels-photo-248420.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Ripe and flavorful organic tomatoes, perfect for sauces and salads.",
+        "category": "vegetables",
+        "quantity": 120,
+        "id": "7a93"
+      },
+      {
+        "productId": 5,
+        "productName": "Organic Spinach",
+        "price": 250,
+        "productPicture": "https://greenspoon.co.ke/wp-content/uploads/2022/02/Greenspoon-Spinach-Mlango-Farm-1.jpg.webp",
+        "description": "Fresh and nutritious organic spinach, ideal for smoothies and salads.",
+        "category": "vegetables",
+        "quantity": 90,
+        "id": "ec7f"
+      },
+      {
+        "productId": 6,
+        "productName": "Grass-Fed Beef",
+        "price": 1500,
+        "productPicture": "https://i5.walmartimages.com/seo/Marketside-Butcher-Grass-Fed-Ground-Beef-80-Lean-20-Fat-1-lb_06ee9aa7-45a1-47ac-98ba-019a308d6f9d.bbfd1eadf6f837f57a982d42514ee1d2.jpeg",
+        "description": "Premium quality grass-fed beef, rich in flavor and nutrients.",
+        "category": "meat",
+        "quantity": 50,
+        "id": "3ec2"
+      },
+      {
+        "productId": 7,
+        "productName": "Organic Strawberries",
+        "price": 400,
+        "productPicture": "https://images.pexels.com/photos/1435301/pexels-photo-1435301.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Sweet and juicy organic strawberries, perfect for desserts and snacks.",
+        "category": "fruits",
+        "quantity": 80,
+        "id": "1bcd"
+      },
+      {
+        "productId": 8,
+        "productName": "Raw Honey",
+        "price": 600,
+        "productPicture": "https://images.pexels.com/photos/33260/honey-sweet-syrup-organic.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Pure and natural raw honey, great for sweetening and baking.",
+        "category": "sweeteners",
+        "quantity": 40,
+        "id": "522c"
+      },
+      {
+        "productId": 9,
+        "productName": "Organic Broccoli",
+        "price": 300,
+        "productPicture": "https://media.istockphoto.com/id/518951178/photo/fresh-raw-green-broccoli-in-bowl.jpg?s=2048x2048&w=is&k=20&c=h5s9Qu1QDhtkFCMvu9j9u6CfdDSuuGey9k9gzVjdIts=",
+        "description": "Fresh and crisp organic broccoli, perfect for steaming and roasting.",
+        "category": "vegetables",
+        "quantity": 100,
+        "id": "f09e"
+      },
+      {
+        "productId": 10,
+        "productName": "Almond Milk",
+        "price": 500,
+        "productPicture": "https://images.pexels.com/photos/3735209/pexels-photo-3735209.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Creamy and nutritious almond milk, a great dairy-free alternative.",
+        "category": "dairy",
+        "quantity": 60,
+        "id": "1f1e"
+      },
+      {
+        "productId": 11,
+        "productName": "Olive Oil",
+        "price": 900,
+        "productPicture": "https://images.pexels.com/photos/1022385/pexels-photo-1022385.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "description": "Extra virgin olive oil for cooking, dipping, and dressing.",
+        "category": "food",
+        "quantity": 42,
+        "id": "191a"
+      }
+    ],
+    "comments": [
+      {
+        "id": "1",
+        "userId": 123,
+        "userName": "John Doe",
+        "content": "This product is amazing! I love it.",
+        "createdAt": "2024-05-09T17:18:00.000Z"
+      },
+      {
+        "id": "b901",
+        "userId": 123,
+        "userName": "Arnold",
+        "content": "Love the app"
+      },
+      {
+        "id": "ad57",
+        "userId": 123,
+        "userName": "Moses",
+        "content": "Fast Deliveries! love it!"
+      },
+      {
+        "id": "c54c",
+        "userId": 123,
+        "userName": "Alvin",
+        "content": "Wonderful App great design and interface"
+      }
+    ]
+  }
+  
